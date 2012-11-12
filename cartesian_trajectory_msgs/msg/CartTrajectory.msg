@@ -1,0 +1,2 @@
+Header header
+cartesian_trajectory_msgs/CartTrajectoryPoint points

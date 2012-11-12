@@ -1,0 +1,17 @@
+<package>
+  <description brief="cartesian_trajectory_msgs">
+
+    cartesian_trajectory_msgs 
+
+  </description>
+  <author>Jonathan Bohren</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/cartesian_trajectory_msgs</url>
+
+  <depend package="std_msgs"/>
+  <depend package="geometry_msgs"/>
+
+</package>
+
+
