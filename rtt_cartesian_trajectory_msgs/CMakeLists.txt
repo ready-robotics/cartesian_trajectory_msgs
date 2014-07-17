@@ -8,4 +8,7 @@ find_package(catkin REQUIRED COMPONENTS
 ros_generate_rtt_typekit(cartesian_trajectory_msgs)
 ros_generate_rtt_service_proxies(cartesian_trajectory_msgs)
 
-orocos_generate_package()
+orocos_generate_package(
+  DEPENDS cartesian_trajectory_msgs 
+  DEPENDS_TARGETS rtt_roscomm  rtt_std_msgs
+)
