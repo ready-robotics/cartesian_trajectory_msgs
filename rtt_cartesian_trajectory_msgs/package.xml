@@ -1,6 +1,6 @@
 <package>
   <name>rtt_cartesian_trajectory_msgs</name>
-  <version>0.1.0</version>
+  <version>0.2.0</version>
   <description>
 
     Provides an rtt typekit for ROS cartesian_trajectory_msgs messages.
