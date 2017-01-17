@@ -1,6 +1,6 @@
 <package>
   <name>cartesian_trajectory_msgs</name>
-  <version>0.1.7</version>
+  <version>0.1.8</version>
   <license>BSD</license>
   <maintainer email="jbo@jhu.edu">Jonathan Bohren</maintainer>
   <description>
